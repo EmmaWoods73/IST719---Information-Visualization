@@ -5,3 +5,5 @@ This data analysis and visualization project combined data from multiple publicl
 Platforms and software used: RStudio, Adobe Illustrator
 
 Key skills: Data munging, Data exploration, Filtering and Aggregation, Data visualization in poster format
+
+TO ACCESS THIS PROJECT: 1) "Emma_Woods_poster.pdf" contains the final project poster. 2) "Emma_Woods_poster.pdf" is the original Adobe Illustrator file. 3) "Emma_Woods_poster.R" is the final R script.
